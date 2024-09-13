@@ -18,13 +18,13 @@ The STCA-4 attack successfully bypassed self-reflection and content moderation i
 # Test Results
 Dislcaimer: For ethical reasons we have only published the outputs, but not the STCA-4 attack prompt.
 
-The CSV file stca_results.csv contains the following columns: https://github.com/alanaqrawi/STCA/blob/main/stca_results.csv
+The CSV file stca_results.csv contains the following columns: https://github.com/alanaqrawi/STCA_o1/blob/main/stca_results.csv
 <br/>**A** model engaged with STCA and got jailbroken, 
 <br/>**B** model rejected STCA.
 
 # Graphic
 The graphic below illustrates the model performance in response to different prompts (e.g., profanity vs. misinformation). It compares the rate of jailbreaks vs model punts.
-![STCA3 Comparison](STCA3_stacked_barplot.png)
+!(STCA_o1.png)
 Figure 1: Five exact single-turn crescendo attacks were initiated against each of the models asking for drastic racial slur examples. We specifically applied a STCA-4 attack.
 
 # Paper
