@@ -18,7 +18,7 @@ The STCA-4 attack successfully bypassed self-reflection and content moderation i
 # Test Results
 Dislcaimer: For ethical reasons we have only published the outputs, but not the STCA-4 attack prompt.
 
-The CSV file stca_results.csv contains the following columns: https://github.com/alanaqrawi/STCA_o1/blob/main/stca_results.csv
+The CSV file stca_results.csv contains the following columns: https://github.com/alanaqrawi/STCA_o1/blob/main/Results_STCA4.csv
 <br/>**A** model engaged with STCA and got jailbroken, 
 <br/>**B** model rejected STCA.
 
