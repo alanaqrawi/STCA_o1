@@ -24,7 +24,7 @@ The CSV file stca_results.csv contains the following columns: https://github.com
 
 # Graphic
 The graphic below illustrates the model performance in response to different prompts (e.g., profanity vs. misinformation). It compares the rate of jailbreaks vs model punts.
-!(STCA_o1.png)
+!(https://github.com/alanaqrawi/STCA_o1/blob/main/STCA_o1.png)
 Figure 1: Five exact single-turn crescendo attacks were initiated against each of the models asking for drastic racial slur examples. We specifically applied a STCA-4 attack.
 
 # Paper
