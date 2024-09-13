@@ -32,7 +32,7 @@ Figure 1: Five exact single-turn crescendo attacks were initiated against each o
 For a detailed explanation of the methodology and the implications of these results, you can read the full paper:
 
 STCA-o1 Paper:
-STCA Paper: https://arxiv.org/abs/2409.03131
+</br>STCA Paper: https://arxiv.org/abs/2409.03131
 
 # License
 This repository is licensed under the CC BY-NC 4.0 License, meaning it is open for non-commercial use. Please contact us for commercial use inquiries.
